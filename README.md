@@ -1,3 +1,1 @@
 # Making Mobile Click
-
-more
